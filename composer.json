@@ -1,0 +1,8 @@
+{
+    "name": "agtong/simple",
+    "autoload": {
+        "psr-0" : {
+            "Agtong\\Simple" : "src"
+        }
+    }
+}
