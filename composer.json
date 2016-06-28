@@ -1,8 +1,6 @@
 {
     "name": "agtong/simple",
     "description": "agtong simple package",
-    "require": {},
-    "require-dev": {},
     "autoload": {
         "psr-0" : {
             "Agtong\\Simple" : "src"
